@@ -1,0 +1,12 @@
+# Local backups and generated files
+backups/
+__pycache__/
+*.pyc
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
