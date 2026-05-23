@@ -31,6 +31,7 @@ Build video: coming soon.
 | Button other side | GND |
 
 The code uses the Pico internal pull-up resistor for the button, so the button should connect GP3 to GND when pressed.
+
 <img width="3395" height="1915" alt="Lighthouse" src="https://github.com/user-attachments/assets/06170874-aa3e-4602-ab89-2e27793f7dfc" />
 
 ## Modes
