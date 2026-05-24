@@ -26,8 +26,8 @@ Build video: coming soon.
 
 | Part | Pico pin | Other  |
 | --- | --- | --- |
-| NeoPixel data | GP1 | VSYS for power - pin 39, ground as pin 38 |
-| Button input | GP3 | for ground pin 3  |
+| NeoPixel data | GP1 | VSYS for power, ground as pin 38 |
+| Button input | GP3 | ground as pin 3  |
 | Button other side | GND |    |
 
 The code uses the Pico internal pull-up resistor for the button, so the button should connect GP3 to GND when pressed.
