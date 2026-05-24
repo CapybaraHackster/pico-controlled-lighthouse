@@ -1,12 +1,12 @@
 # Pico Controlled Lighthouse
 
-A Raspberry Pi Pico controlled LED lighthouse project for a 3D printed lighthouse model. The Pico drives a 6 LED NeoPixel (WS2812) strip and uses one button to cycle through different light modes.
+A Raspberry Pi Pico controlled LED lighthouse project for a 3D printed lighthouse model. The Pico drives a 6 LED WS2812 (NeoPixel) strip and uses one button to cycle through different light modes.
 
 Build video: coming soon.
 
 ## Features
 
-- 6 NeoPixel LEDs controlled from a Raspberry Pi Pico
+- 6 WS2812 LEDs controlled from a Raspberry Pi Pico
 - One-button mode switching
 - Steady light modes in bright white, warm yellow, and night red
 - Dim lighthouse glow modes
