@@ -51,10 +51,11 @@ The code uses the Pico internal pull-up resistor for the button, so the button s
 ## Installing On The Pico
 
 1. Install MicroPython on the Raspberry Pi Pico.
-2. Open `main.py` in Thonny or another Pico-compatible editor.
-3. Save the file to the Pico as `main.py`.
-4. Restart the Pico.
-5. Press the button to cycle through the modes.
+2. Add the PicoZero and NeoPixel packages through Thonny or another code editor.
+3. Open `main.py` in Thonny or another Pico-compatible editor.
+4. Save the file to the Pico as `main.py`.
+5. Restart the Pico.
+6. Press the button to cycle through the modes.
 
 ## Project Files
 
