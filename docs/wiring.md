@@ -1,10 +1,10 @@
 # Wiring
 
-| Part | Pico pin |
-| --- | --- |
-| NeoPixel data | GP1 |
-| Button input | GP3 |
-| Button other side | GND |
+| Part | Pico pin | Other  |
+| --- | --- | --- |
+| NeoPixel data | GP1 | VSYS for power - pin 39, ground as pin 38 |
+| Button input | GP3 | for ground pin 3  |
+| Button other side | GND |    |
 
 The button uses `Pin.PULL_UP` in the code. Connect one side of the button to GP3 and the other side to GND.
 
