@@ -1,5 +1,7 @@
 # 3D Files
 
-Add the lighthouse STL, 3MF, or print project files here.
+Get the lighthouse STL files (or Bambu readymade layouts 3mf)
 
-If you want to allow remixing but require credit, consider using a Creative Commons Attribution license for these files. If you do not want commercial use, consider Creative Commons Attribution-NonCommercial.
+Updatelink afterupload!!!
+
+https://cults3d.com/en/3d-model/home/pipico-lighthouse
