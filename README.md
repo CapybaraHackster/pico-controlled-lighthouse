@@ -17,7 +17,7 @@ Get the 3D printing files from: https://cults3d.com/:4581393
 ## Hardware
 
 - Raspberry Pi Pico or compatible MicroPython board
-- 6 LED NeoPixel / WS2812 strip or ring
+- 6 LED NeoPixel / WS2812 strip 
 - Momentary push button
 - 3D printed lighthouse body
 - Wires and suitable power connection for the LEDs
